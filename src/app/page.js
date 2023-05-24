@@ -94,6 +94,6 @@ export default function Home() {
   )
 }
 
-export async function getStaticProps(context) {
-  /*const res = await fetch('');*/
-}
+/*export async function getStaticProps(context) {
+  const res = await fetch('');
+}*/
